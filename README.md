@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-To try this project, click [here](./public/index.html).
+To try this project, click [here](http://localhost:3000/).
 
 ## Available Scripts
 
